@@ -14,6 +14,7 @@
 		1CF92BC82C63975300F5BC30 /* Restaurant_Reservation_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CF92BC72C63975300F5BC30 /* Restaurant_Reservation_AppTests.swift */; };
 		1CF92BD22C63975300F5BC30 /* Restaurant_Reservation_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CF92BD12C63975300F5BC30 /* Restaurant_Reservation_AppUITests.swift */; };
 		1CF92BD42C63975300F5BC30 /* Restaurant_Reservation_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CF92BD32C63975300F5BC30 /* Restaurant_Reservation_AppUITestsLaunchTests.swift */; };
+		1CF92BE52C639D0A00F5BC30 /* justtocheck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CF92BE42C639D0A00F5BC30 /* justtocheck.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		1CF92BCD2C63975300F5BC30 /* Restaurant_Reservation_AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Restaurant_Reservation_AppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CF92BD12C63975300F5BC30 /* Restaurant_Reservation_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant_Reservation_AppUITests.swift; sourceTree = "<group>"; };
 		1CF92BD32C63975300F5BC30 /* Restaurant_Reservation_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant_Reservation_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1CF92BE42C639D0A00F5BC30 /* justtocheck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = justtocheck.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				1CF92BB62C63975100F5BC30 /* Restaurant_Reservation_AppApp.swift */,
 				1CF92BB82C63975100F5BC30 /* ContentView.swift */,
+				1CF92BE42C639D0A00F5BC30 /* justtocheck.swift */,
 				1CF92BBA2C63975300F5BC30 /* Assets.xcassets */,
 				1CF92BBC2C63975300F5BC30 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1CF92BE52C639D0A00F5BC30 /* justtocheck.swift in Sources */,
 				1CF92BB92C63975100F5BC30 /* ContentView.swift in Sources */,
 				1CF92BB72C63975100F5BC30 /* Restaurant_Reservation_AppApp.swift in Sources */,
 			);
